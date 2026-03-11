@@ -298,6 +298,7 @@
   - type: Clothing
     sprite: _Sunrise/Clothing/Ears/Headsets/deathsquad.rsi
   - type: EncryptionKeyHolder
+    keySlots: 5
 
 - type: entity
   parent: ClothingHeadsetAlt
