@@ -27,4 +27,4 @@ ent-ClothingHeadsetAltDeathSquad = Full-Headset DS
 ent-ClothingHeadsetAltERT = Full-Headset ERT
     .desc = The headset, designed for ERT fighters, allows you to clearly hear the orders of your comrades without being distracted from the fight.
 ent-ClothingHeadsetAltSpecOpsOfficer = Full-Headset SOO
-    .desc = The headset for a special operations officer is designed to manage and coordinate special operations in the sector.
+    .desc = The headset for a special operations officer is designed to manage and coordinate special operations in the sector, it's better for you not to know what they're talking about on this walkie-talkie.
