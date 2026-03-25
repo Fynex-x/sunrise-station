@@ -685,4 +685,4 @@
 
 # Medicine
 - type: Tag
-  id: AutoMender  # Используется для whitelist у ClothingBeltMedical
+  id: AutoMender  # Используется для whitelist у ClothingBeltMedical =3
