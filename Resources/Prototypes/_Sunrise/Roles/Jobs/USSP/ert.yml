@@ -34,7 +34,7 @@
   - HumanoidXeno
   - Predator
   - Resomi
-  parent: EventHumanoidERTSunrise # Sunrise-edit
+  parent: EventHumanoidERTSunrise
   randomizeName: false
   components:
     - type: GhostRole
@@ -503,7 +503,7 @@
 
 - type: randomHumanoidSettings
   id: CBURNAgentEVA
-  parent: EventHumanoidERTSunrise # Sunrise-edit
+  parent: EventHumanoidERTSunrise
   speciesBlacklist:
   - Diona
   - Vox
