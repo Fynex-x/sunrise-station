@@ -94,3 +94,19 @@ ent-RadioImplanterCentcomm = { ent-BaseImplanter }
 ent-DeathRattleImplanterCentcomm = { ent-BaseImplanter }
     .suffix = предсмертный сигнал, ЦентКом
     .desc = { ent-BaseImplantOnlyImplanter.desc }
+
+ent-RadioImplanterERT = { ent-BaseImplanter }
+    .suffix = радио, ОБР
+    .desc = { ent-BaseImplantOnlyImplanter.desc }
+
+ent-DeathRattleImplanterERT = { ent-BaseImplanter }
+    .suffix = предсмертный сигнал, ОБР
+    .desc = { ent-BaseImplantOnlyImplanter.desc }
+
+ent-RadioImplanterDeathSquad = { ent-BaseImplanter }
+    .suffix = радио, ЭС
+    .desc = { ent-BaseImplantOnlyImplanter.desc }
+
+ent-DeathRattleImplanterDeathSquad = { ent-BaseImplanter }
+    .suffix = предсмертный сигнал, ЭС
+    .desc = { ent-BaseImplantOnlyImplanter.desc }
