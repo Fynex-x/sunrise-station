@@ -233,7 +233,7 @@
   - type: RadioImplant
     radioChannels:
     - DeathSquad
-  
+
   id: DeathRattleImplantTSF
   name: TSF death rattle implant
   description: This implant will inform the TSF radio channel should the user fall into critical condition or die.
