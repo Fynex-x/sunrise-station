@@ -25,3 +25,6 @@ ent-RubberStampSpecOps = Special Operations rubber stamp
     .suffix = DO NOT MAP
 ent-RubberStampPrisonInspector = Prison Inspector’s rubber stamp
     .desc = { ent-RubberStampBase.desc }
+ent-RubberStampCommanderBlueShield = Commander BlueShield rubber stamp
+    .suffix = DO NOT MAP
+    .desc = { ent-RubberStampBase.desc }
