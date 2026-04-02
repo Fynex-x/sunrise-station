@@ -134,3 +134,17 @@
     - type: Sprite
       sprite: _Sunrise/Objects/Misc/stamps.rsi
       state: stamp-specops
+
+- type: entity
+  name: The commander's stamp is a blue shield
+  parent: RubberStampBase
+  id: RubberStampCommanderBlueShield
+  suffix: DO NOT MAP
+  components:
+  - type: Stamp
+    stampedName: stamp-component-stamped-name-commander-blueshield
+    stampedColor: "#0069cc"
+    stampState: "paper_stamp-commander-blueshield"
+  - type: Sprite
+    sprite: _Sunrise/Objects/Misc/stamps.rsi
+    state: stamp-commander-blueshield
