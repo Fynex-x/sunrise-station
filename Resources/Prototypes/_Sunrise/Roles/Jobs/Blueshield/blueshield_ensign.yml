@@ -37,6 +37,7 @@
     - Medical
     - BlueShield
     - BlueShieldEnsign
+    - AllAccess
   special:
     - !type:AddImplantSpecial
       implants: [ MindShieldImplant ]
