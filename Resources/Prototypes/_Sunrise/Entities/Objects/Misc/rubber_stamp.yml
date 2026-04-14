@@ -2,7 +2,7 @@
   name: internal affairs agent's rubber stamp
   parent: RubberStampBase
   id: RubberStampIAA
-  suffix: DO NOT MAP
+  categories: [ DoNotMap ]
   components:
     - type: Stamp
       stampedName: stamp-component-stamped-name-iaa
@@ -16,7 +16,7 @@
   name: magistrat's rubber stamp
   parent: RubberStampBase
   id: RubberStampMagistrat
-  suffix: DO NOT MAP
+  categories: [ DoNotMap ]
   components:
   - type: Stamp
     stampedName: Магистрат
@@ -30,7 +30,7 @@
   name: NT representative's rubber stamp
   parent: RubberStampBase
   id: RubberStampNtrep
-  suffix: DO NOT MAP
+  categories: [ DoNotMap ]
   components:
   - type: Stamp
     stampedName: stamp-component-stamped-name-ntrep
@@ -44,7 +44,7 @@
   name: Pathologist rubber stamp
   parent: RubberStampBase
   id: RubberStampPath
-  suffix: DO NOT MAP
+  categories: [ DoNotMap ]
   components:
   - type: Stamp
     stampedName: stamp-component-stamped-name-path
@@ -58,7 +58,7 @@
   name: Adjutant's rubber stamp
   parent: RubberStampBase
   id: RubberStampAdj
-  suffix: DO NOT MAP
+  categories: [ DoNotMap ]
   components:
   - type: Stamp
     stampedName: stamp-component-stamped-name-adj
@@ -72,7 +72,7 @@
   name: Head of Prison rubber stamp
   parent: RubberStampBase
   id: RubberStampNpt
-  suffix: DO NOT MAP
+  categories: [ DoNotMap ]
   components:
   - type: Stamp
     stampedName: stamp-component-stamped-name-npt
@@ -112,7 +112,7 @@
   name: Special Operations rubber stamp
   parent: RubberStampBase
   id: RubberStampSpecOps
-  suffix: DO NOT MAP
+  categories: [ DoNotMap ]
   components:
   - type: Stamp
     stampedName: stamp-component-stamped-name-specops
