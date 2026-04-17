@@ -19,7 +19,7 @@
   categories: [ DoNotMap ]
   components:
   - type: Stamp
-    stampedName: Магистрат
+    stampedName: stamp-component-stamped-name-magistrat
     stampedColor: "#FF5297"
     stampState: "paper_stamp-magistrat"
   - type: Sprite
