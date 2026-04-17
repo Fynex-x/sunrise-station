@@ -136,7 +136,7 @@
       state: stamp-specops
 
 - type: entity
-  name: The commander's stamp is a blue shield
+  name: Blue Shield Commander's rubber stamp
   parent: RubberStampBase
   id: RubberStampCommanderBlueShield
   categories: [ DoNotMap ]
