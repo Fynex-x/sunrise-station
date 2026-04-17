@@ -1,5 +1,5 @@
 ent-RubberStampIAA = печать агента внутренних дел
-    .desc = { ent-RubberStampMime.desc }
+    .desc = { ent-RubberStampBase.desc }
 ent-RubberStampMagistrat = печать магистрата
     .desc = { ent-RubberStampBase.desc }
 ent-RubberStampNtrep = печать представителя NT
