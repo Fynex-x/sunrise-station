@@ -23,4 +23,5 @@ ent-RubberStampCommanderBlueShield = печать командира «Сини�
 stamp-component-stamped-name-ntrep = Представитель NT
 stamp-component-stamped-name-path = Патологоанатом
 stamp-component-stamped-name-adj = Адъютант
+stamp-component-stamped-name-magistrat = Магистрат
 stamp-component-stamped-name-commander-blueshield = Командир «Синий щит»
