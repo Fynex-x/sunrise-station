@@ -56,6 +56,7 @@
   storage:
     back:
     - HandheldBSOCrewMonitor
+    - RubberStampCommanderBlueShield
 
 - type: chameleonOutfit
   id: BlueShieldEnsignChameleonOutfit
