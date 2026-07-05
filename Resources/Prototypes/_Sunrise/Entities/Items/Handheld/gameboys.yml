@@ -1,0 +1,62 @@
+- type: entity
+  abstract: true
+  id: GameBoyBase
+  description: Портативная игровая приставка.
+  name: GameBoy
+  parent: BaseItem
+  components:
+  - type: Item
+    size: Small
+  - type: Sprite
+    sprite: Structures/Machines/arcade.rsi
+    state: arcade
+  - type: PointLight
+    radius: 0.8
+    energy: 1.5
+    color: "#3db83b"
+  - type: LitOnPowered
+  - type: Battery
+    maxCharge: 3600
+    startingCharge: 3600
+  - type: BatteryDrawComponent
+    drawRate: 10
+  - type: Pullable
+  - type: StaticPrice
+    price: 150
+  - type: SpamEmitSound
+    minInterval: 30
+    maxInterval: 90
+    sound:
+      collection: ArcadeNoise
+      params:
+        volume: -10
+        maxDistance: 5
+        variation: 0.05
+
+- type: entity
+  id: GameBoySpaceVillain
+  name: GameBoy Space Villain
+  description: Портативная игровая приставка с игрой "Space Villain". Издает характерные звуки при использовании.
+  parent: GameBoyBase
+  components:
+  - type: Sprite
+    sprite: Structures/Machines/arcade.rsi
+    layers:
+    - state: arcade
+    - state: screen_spacevillain
+  - type: PointLight
+    color: "#e3a136"
+
+- type: entity
+  id: GameBoyBlockGame
+  name: GameBoy Block Game
+  description: Портативная игровая приставка с игрой "NT Block Game". Издает характерные звуки при использовании.
+  parent: GameBoyBase
+  components:
+  - type: Sprite
+    sprite: Structures/Machines/arcade.rsi
+    layers:
+    - state: arcade
+    - state: screen_blockgame
+  - type: PointLight
+    color: "#3db83b"
