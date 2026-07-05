@@ -18,8 +18,6 @@
   - type: Battery
     maxCharge: 3600
     startingCharge: 3600
-  - type: BatteryDrawComponent
-    drawRate: 10
   - type: Pullable
   - type: StaticPrice
     price: 150
