@@ -50,7 +50,6 @@
     outerClothing: ClothingOuterArmorBlueShield
     id: BlueShieldEnsignPDA
     ears: ClothingHeadsetBlueShieldEnsign
-    belt: ClothingBeltBlueShieldWebbingFilled
     gloves: ClothingHandsGlovesCombat
   storage:
     back:
